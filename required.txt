@@ -1,0 +1,6 @@
+numpy
+tensorflow
+bert-for-tf2
+tensorflow-hub
+argparse
+tqdm
